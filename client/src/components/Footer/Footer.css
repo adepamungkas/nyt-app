@@ -1,0 +1,16 @@
+.footer {
+    background-color: rgba(248, 250, 250, 0.945) !important;
+    margin-top: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 8px solid #0c42f5;
+    color: white !important;
+}
+
+.footer-heading {
+    font-size: 24px;
+}
+
+.footer-button {
+    color: #080708 !important;
+}

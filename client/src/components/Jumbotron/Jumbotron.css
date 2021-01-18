@@ -1,0 +1,14 @@
+/*https://coolors.co/080708-3772ff-df2935-fdca40-e6e8e6*/
+.jumbotron  {
+    background-color: rgba(248, 250, 250, 0.945) !important;
+    color: rgba(2, 0, 0, 0.884) !important;
+    font-family: 'Chomsky';
+    font-weight: bold;
+    font-style: bold;
+    border-bottom: 8px solid #0a0aee;
+}
+
+.button {
+    background-color: #FDCA40 !important;
+    color: black;
+}
