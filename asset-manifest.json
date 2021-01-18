@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nyt-app/client/static/css/main.54a9e5f4.chunk.css",
+    "main.js": "/nyt-app/client/static/js/main.fde286cc.chunk.js",
+    "main.js.map": "/nyt-app/client/static/js/main.fde286cc.chunk.js.map",
+    "runtime-main.js": "/nyt-app/client/static/js/runtime-main.02787762.js",
+    "runtime-main.js.map": "/nyt-app/client/static/js/runtime-main.02787762.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/nyt-app/client/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5152d0b4.chunk.js": "/nyt-app/client/static/js/2.5152d0b4.chunk.js",
+    "static/js/2.5152d0b4.chunk.js.map": "/nyt-app/client/static/js/2.5152d0b4.chunk.js.map",
+    "static/js/3.e960a3ff.chunk.js": "/nyt-app/client/static/js/3.e960a3ff.chunk.js",
+    "static/js/3.e960a3ff.chunk.js.map": "/nyt-app/client/static/js/3.e960a3ff.chunk.js.map",
+    "index.html": "/nyt-app/client/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/nyt-app/client/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.54a9e5f4.chunk.css.map": "/nyt-app/client/static/css/main.54a9e5f4.chunk.css.map",
+    "static/js/2.5152d0b4.chunk.js.LICENSE.txt": "/nyt-app/client/static/js/2.5152d0b4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nyt-app/client/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02787762.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5152d0b4.chunk.js",
+    "static/css/main.54a9e5f4.chunk.css",
+    "static/js/main.fde286cc.chunk.js"
+  ]
+}
